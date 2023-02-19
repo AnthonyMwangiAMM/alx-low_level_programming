@@ -1,0 +1,1 @@
+This repository contains all my project files for low level programming in C as part of the ALX Software Engineering program.
