@@ -1,8 +1,10 @@
-#include "holberton.h"
+#include "main.h"
+
 /**
 * print_diagonal - draws a diagonal line
 * @n: takes in an integer
 */
+
 void print_diagonal(int n)
 {
 	int i, j;

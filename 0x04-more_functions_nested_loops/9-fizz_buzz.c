@@ -1,9 +1,11 @@
 #include <stdio.h>
+
 /**
 * main - entry block
 * @void: no argument
 * Return: 0 Success
 */
+
 int main(void)
 {
 	int i;
